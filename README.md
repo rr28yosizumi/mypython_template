@@ -1,7 +1,9 @@
-template
+markdown doc template
 ========
 
-cookiecutter template
+マークダウンでドキュメントを記載するためのcookiecutterテンプレート
+
+ライセンス表記とAUTHORSもなし
 
 Requirements
 ------------
